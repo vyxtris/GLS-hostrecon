@@ -11,3 +11,11 @@ Link menuju pastebin: https://pastebin.com/h1WeriRP
 Hasil decode data tersebut:
 
 ![alt text](https://github.com/vyxtris/GLS-hostrecon/raw/main/images/Picture3.png?raw=true)
+
+Referensi:
+
+https://github.com/Lex98/pastebinUpload/blob/master/pastebinUpload.py
+
+https://pastebin.com/doc_api 
+
+https://pastebin.com/asRbutde 
